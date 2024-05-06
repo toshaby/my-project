@@ -1,2 +1,4 @@
 Четвертый текстовый 
 файл
+
+this file was modifyid in the feature branch
