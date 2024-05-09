@@ -2,3 +2,4 @@ Feature text file
 added in main
 added in add-file
 
+Изменения для гитхаба с локали
